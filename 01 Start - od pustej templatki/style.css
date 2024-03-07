@@ -1,0 +1,21 @@
+body
+{
+    background-color: lightgray;
+}
+
+.logo
+{
+    width: 100%;
+}
+
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+.footer
+{
+    width: 100%;
+}
